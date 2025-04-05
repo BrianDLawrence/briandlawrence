@@ -33,7 +33,7 @@ This project is currently live hosted by vercel.com here: http://careerinformati
 ## resume ats advisor 
 https://github.com/BrianDLawrence/careeradvisor<br>
 NUXT 3 Version of interview assist but with a focus on Job and Resume Skill Scanner + integration with ChatGPT to help further analyze and provide guidance to the user.<br>
-Currently hosted on Vercel here: https://resume-ats.com/
+Currently hosted on Vercel here: https://careeradvisor.vercel.app/
 
 ## powerful questions
 https://github.com/BrianDLawrence/powerfulquestions<br>
