@@ -2,8 +2,8 @@
 
 - 👋 Hi, I’m @BrianDLawrence 
 - 👀 I’m interested in web3, AI/ML, and solving problems pragmatically with code!
-- 🌱 I’m currently actively coding using JavaScript, TypeScript, Python, and Java.
-- 🧨 My favorite modern frameworks and tech for project work: Vue.js, NUXT, Node.js, Spring Boot, MongoDB, Vercel, Docker.
+- 🌱 I’m currently actively coding using Claude and Codex - Most of my projects are in Python, JavaScript/TypeScript
+- 🧨 My favorite modern frameworks and tech for project work currently is Azure / FastAPI / Vite / React
 - 💞️ I’m open to collaborate on anything exciting that provides value!
 - 📫 Feel free to reach out with questions: Brian@BrianDLawrence.com 
 
@@ -83,4 +83,8 @@ I am currently using this in Catetry to create short URLs for saved cat poems. A
 $ npm install @speroautem/shortcode
 ```
 https://www.npmjs.com/package/@speroautem/shortcode
+
+## Stream Deck pluging to monitor my Claude usage
+https://github.com/BrianDLawrence/claude-usage-streamdeck<br>
+Another helpful widget for my Stream Deck. 
 
